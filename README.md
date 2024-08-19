@@ -3,7 +3,7 @@ The objective of this assignment is to transform a 'messy' data set into a 'tidy
 
 The script to execute was written as follows
 
-##Step 1 Load dplyr package
+## Step 1 Load dplyr package
 
 library(dplyr)
 
